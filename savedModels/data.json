@@ -1,0 +1,16 @@
+{
+    "intents":[
+        {"tag":"greetings",
+         "patterns":["hi","hello","hey","how are you"],
+         "responses":["hola","anaass"]},
+         {"tag":"thanks",
+         "patterns":["ilvy","so good","nice"],
+         "responses":["thanks","thank you","ohh"]},
+        {"tag":"age",
+         "patterns":["how old","how old is ","how old are you","age?"],
+         "responses":["i'm older than you"]},
+        {"tag":"name",
+         "patterns":["what is your name","name?","whats your name","who are you"],
+         "responses":["i'm robot"]}
+    ]
+}
